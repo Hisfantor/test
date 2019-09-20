@@ -1,3 +1,4 @@
+baseurl = "https://hisfantor.com/test/"
 title = "Solar Theme"
 theme = "solar"
 publishDir = "docs"
